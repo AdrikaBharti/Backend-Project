@@ -1,0 +1,10 @@
+24:06:2025	16:07:01	9f6f477e-cb21-4423-b22b-196d260e6015	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	16:09:10	5ce75088-9e1a-4005-91cd-260c487f39c9	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	16:09:15	ae891e3f-1982-4b45-91e4-87729ca5fc9a	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	16:29:10	c9977e0e-aca4-409c-b610-c6114efbd383	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	17:50:21	59692163-8aac-4169-a470-8785d8e49fcb	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	17:53:35	9a9d3699-fffe-40da-9810-3076bcd9038c	TypeError: Cannot read properties of undefined (reading 'split')
+24:06:2025	18:56:47	ad165486-805e-447a-afe0-a26b22d2f029	Error: secretOrPrivateKey must have a value
+24:06:2025	20:02:39	8dc3fb4b-276c-4ea4-8fe4-b6399fa733f5	TypeError: Cannot read properties of undefined (reading 'refreshToken')
+24:06:2025	21:17:26	9ab7d8c6-30a5-44f6-b3e3-5f390ef9aba2	Error: Cannot set headers after they are sent to the client
+24:06:2025	21:18:20	5cbd28d8-5429-48ee-a5c9-cfdf8d56d1dc	Error: Cannot set headers after they are sent to the client
