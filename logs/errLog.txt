@@ -8,3 +8,7 @@
 24:06:2025	20:02:39	8dc3fb4b-276c-4ea4-8fe4-b6399fa733f5	TypeError: Cannot read properties of undefined (reading 'refreshToken')
 24:06:2025	21:17:26	9ab7d8c6-30a5-44f6-b3e3-5f390ef9aba2	Error: Cannot set headers after they are sent to the client
 24:06:2025	21:18:20	5cbd28d8-5429-48ee-a5c9-cfdf8d56d1dc	Error: Cannot set headers after they are sent to the client
+24:06:2025	23:23:35	69867037-7c8e-49a1-915d-e8238ca10112	TypeError: res.sendSatus is not a function
+24:06:2025	23:25:39	a31d2708-470c-4c61-86fa-c5bffe91440d	Error: Cannot set headers after they are sent to the client
+24:06:2025	23:26:04	725894ab-9dde-4932-b90c-d599cc622047	TypeError: res.sendSatus is not a function
+24:06:2025	23:28:23	e044d787-a381-4e1b-9e12-ec95838e57ec	TypeError: res.sendSatus is not a function
