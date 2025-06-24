@@ -16,7 +16,7 @@ const handleRefreshToken = (req,res)=>{
         refreshToken,
         process.env.REFRESH_TOKEN_SECRET,
         (err,decoded)=>{
-            if(err || foundUser.username !=decoded.username) return res.sendSatus(403)
+            if(err || foundUser.username !=decoded.username) return res.sendStatus(403)
             const accessToken = jwt.sign( 
                 {
                     "UserInfo":{
